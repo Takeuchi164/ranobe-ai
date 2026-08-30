@@ -5,8 +5,7 @@
 # DEMO
 
 好きな作品を伝えると、おすすめのライトノベルを教えてくれます。
-<img width="606" height="326" alt="demo" src="https://github.com/user-attachments/assets/9e908eea-3cf8-4592-bc46-14e4fc001b0b" />
-
+<img width="606" height="276" alt="demo" src="https://github.com/user-attachments/assets/9f580955-a199-4c0f-9feb-440bf8e22531" />
 
 # Features
 
