@@ -1,4 +1,4 @@
-# BookLog
+# ranobe-ai
 
 「ranobe-ai」はユーザーが入力した好きなマンガやアニメなどのタイトルをもとに、**Azure OpenAI (GPT-4o)** を活用してぴったりのライトノベルを提案してくれる、Streamlit製のWebアプリケーションです。
 
