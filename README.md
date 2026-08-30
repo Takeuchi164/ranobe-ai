@@ -14,8 +14,8 @@
 
 # Requirement
 
-* **streamlit:**
-* **openai:**
+* **streamlit**
+* **openai**
 
 # Installation
 
